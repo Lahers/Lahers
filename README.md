@@ -24,6 +24,7 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
 ## 📫 Contactez-moi
 - LinkedIn : https://www.linkedin.com/in/antoine-hersent/
 - Mastodon : https://mastodon.social/@la_hers
+- Discord : antoinehersent
 
 ## 📌 Centres d'intérêts
 - Football depuis 2006
