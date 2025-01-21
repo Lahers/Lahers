@@ -4,7 +4,8 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
 ## 🌟 Compétences
 - Langages : Python, SQL, Arcade, RStudio et HTML (en apprentissage)
 - ETL : FME, ModelBuilder, Modeleur graphique
-- Outils SIG : QGIS, ArcGIS, Business Geografic, Lizmap, RESOCAD, Magrit
+- Outils SIG : QGIS, ArcGIS PRO, ArcMap, OpenStreetMap, Lizmap, RESOCAD, Magrit
+- Environnements SIG : ESRI, Business Geografic
 - Langues : Anglais (B1/B2), Espagnol (B1)
 
 ## 💼 Projets
@@ -19,7 +20,8 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
   4. Comment le port à travers sa fonction d’aménageur peut promouvoir la multimodalité/intermodalité,….cf loi portuaire 2008 ;
   5. Les nouveaux carburants alternatifs : enjeux et perspectives.
 - ZAE et offre foncière - https://www.limoges-metropole.fr/entreprises/observatoire-economique/nos-parcs-dactivites / https://www.limoges-metropole.fr/entreprendre/outils-pour-les-entreprises/offre-fonciere-et-immobiliere : Ce projet, réalisé lors du stage à la CU de Limoges Métropole, avait pour but de recenser toutes les friches présentes au sein des ZAE afin de pouvoir ensuite avoir une vision complète du territoire et ainsi mieux guider les acteurs souhaitant s'installer. Le projet a ensuite été étendu sur les biens immobiliers (logements vacants) ;
-- Création d'un observatoire du foncier pour le Syndicat Mixte du Pays de Saintonge Romane. L'objectif de cet observatoire est de sensibiliser les élus des 70 communes du territoire de la Saintonge Romane à la consommation foncière de leur territoire sur la période 2011-2021 puis 2021-2031. Cela va ainsi permettre d'adapter les stratégies dans le cadre de la révision du SCoT.
+- Création d'un observatoire du foncier pour le Syndicat Mixte du Pays de Saintonge Romane. L'objectif de cet observatoire est de sensibiliser les élus des 70 communes du territoire de la Saintonge Romane à la consommation foncière de leur territoire sur la période 2011-2021 puis 2021-2031. Cela va ainsi permettre d'adapter les stratégies dans le cadre de la révision du SCoT ;
+- Évolution du SIG 
 
 ## 📫 Contactez-moi
 - LinkedIn : https://www.linkedin.com/in/antoine-hersent/
@@ -27,6 +29,6 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
 - Discord : antoinehersent
 
 ## 📌 Centres d'intérêts
-- Football depuis 2006
+- Cinématographie
 - Dirigeant/coach à Tonnay-Charente (ESTL - Entente Sportive Tonnacquoise Lussantaise)
-- Cyclisme, course à pied, tennis, musculation
+- Sports que je fais : football, cyclisme, course à pied, tennis, musculation
