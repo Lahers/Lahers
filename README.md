@@ -29,6 +29,6 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
 - Discord : antoinehersent
 
 ## 📌 Centres d'intérêts
-- Cinématographie
 - Dirigeant/coach à Tonnay-Charente (ESTL - Entente Sportive Tonnacquoise Lussantaise)
 - Sports que je fais : football, cyclisme, course à pied, tennis, musculation
+- Cinéphile
