@@ -30,5 +30,5 @@ Je m'appelle Antoine Hersent, après avoir achevé un stage au sein de la Commun
 
 ## 📌 Centres d'intérêts
 - Dirigeant/coach à Tonnay-Charente (ESTL - Entente Sportive Tonnacquoise Lussantaise)
-- Sports que je fais : football, cyclisme, course à pied, tennis, musculation
+- Sports : football, cyclisme, course à pied, tennis, musculation
 - Cinéphile
